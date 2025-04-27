@@ -14,3 +14,4 @@
 
  [all_select.c](all_select.c) 对一组数字进行全组合然后求和；
 
+.[clean_c_code_blank_commit.py]:清除c文件中的注释段，注释行，空白行（软著使用）
